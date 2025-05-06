@@ -1,6 +1,7 @@
 body{
     font-size: 15px;
     line-height: 1.5;
-    background-color: rgba(29, 18, 18, 0.062);
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-image: url("https://img.freepik.com/fotos-gratis/fundo-preto-e-branco-ondulado_23-2150530917.jpg");
 }
